@@ -1,0 +1,21 @@
+{
+  "name": "PESE Token List",
+  "logoURI": "https://raw.githubusercontent.com/blueskyghc/token-list/main/assets/mainnet/4SWHJEXanULzSq9zFUPZtUa3WxGiizDEvYb4BKhLatAQ.png",
+  "tags": {},
+  "timestamp": "2025-10-05T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "4SWHJEXanULzSq9zFUPZtUa3WxGiizDEvYb4BKhLatAQ",
+      "symbol": "PESE",
+      "name": "PEPEVERSE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/blueskyghc/token-list/main/assets/mainnet/4SWHJEXanULzSq9zFUPZtUa3WxGiizDEvYb4BKhLatAQ.png",
+      "extensions": {
+        "website": "https://pepeverse.space",
+        "twitter": "https://x.com/pepeverse_space",
+        "description": "The official PESE token of the PEPEVERSE ecosystem on Solana."
+      }
+    }
+  ]
+}
